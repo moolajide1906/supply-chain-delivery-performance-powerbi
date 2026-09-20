@@ -1,0 +1,41 @@
+CustomerID,CustomerName,Segment,City,Region,Country
+C001,Cedar Brands,Small Business,Dallas,South,USA
+C002,Cedar Goods,Small Business,Boston,Northeast,USA
+C003,Redwood Brands,Consumer,Miami,South,USA
+C004,Union Logistics,Small Business,Dallas,South,USA
+C005,Summit Outfitters,Consumer,Indianapolis,Midwest,USA
+C006,Keystone Supplies,Consumer,Philadelphia,Northeast,USA
+C007,Union Brands,Corporate,Columbus,Midwest,USA
+C008,Quartz Wholesale,Small Business,Pittsburgh,Northeast,USA
+C009,Quartz Brands,Consumer,Los Angeles,West,USA
+C010,Lakeside Retail,Corporate,Atlanta,South,USA
+C011,Willow Goods,Consumer,Indianapolis,Midwest,USA
+C012,Vista Wholesale,Consumer,New York,Northeast,USA
+C013,Lakeside Trading,Consumer,Dallas,South,USA
+C014,Northwind Goods,Small Business,Seattle,West,USA
+C015,Pinnacle Goods,Small Business,New York,Northeast,USA
+C016,Keystone Brands,Consumer,Seattle,West,USA
+C017,Falcon Goods,Consumer,Atlanta,South,USA
+C018,Timber Retail,Corporate,Phoenix,West,USA
+C019,Lakeside Goods,Consumer,Indianapolis,Midwest,USA
+C020,Maple Mercantile,Consumer,Boston,Northeast,USA
+C021,Keystone Goods,Corporate,Dallas,South,USA
+C022,Blue Ridge Brands,Corporate,Houston,South,USA
+C023,Cedar Mercantile,Consumer,Seattle,West,USA
+C024,Ironwood Logistics,Consumer,Los Angeles,West,USA
+C025,Zenith Partners,Consumer,Boston,Northeast,USA
+C026,Union Distributors,Corporate,Seattle,West,USA
+C027,Delta Mercantile,Corporate,Miami,South,USA
+C028,Junction Wholesale,Consumer,Indianapolis,Midwest,USA
+C029,Ironwood Retail,Corporate,Boston,Northeast,USA
+C030,Quartz Logistics,Corporate,Atlanta,South,USA
+C031,Willow Trading,Consumer,Columbus,Midwest,USA
+C032,Delta Wholesale,Corporate,New York,Northeast,USA
+C033,Oakhaven Wholesale,Consumer,Los Angeles,West,USA
+C034,Ironwood Group,Corporate,Indianapolis,Midwest,USA
+C035,Keystone Distributors,Corporate,Phoenix,West,USA
+C036,Granite Goods,Consumer,Seattle,West,USA
+C037,Blue Ridge Trading,Consumer,Indianapolis,Midwest,USA
+C038,Quartz Supplies,Corporate,Dallas,South,USA
+C039,Northwind Supplies,Corporate,Indianapolis,Midwest,USA
+C040,Pinnacle Logistics,Corporate,Columbus,Midwest,USA
